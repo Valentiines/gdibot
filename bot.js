@@ -32,7 +32,7 @@ const search = require('yt-search');
 const configs = require("./configs.json");
 const timestamp = require("console-timestamp");
 var botConfigs = {
-    token: "NjMxNTAzNTY4ODQyNTIyNjY2.Xca_gg.xv0CsvDkX-AZ2uQt9HXHkhYSoWM",
+    token: "NjQyNzQxMDkzMjUwNzYwNzQ1.XcbVig.LiGuNTUNRWZcDtE2gRTZN24jD18",
     prefix: "!gdi ",
     gameStatus: "#MAIN-COMMS (!gdi ticket)",
     statusType: "WATCHING",
